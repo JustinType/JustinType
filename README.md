@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="left">🎓 French student at ENSIBS (cyberdefense section)</h3>
-<h3 align="left">🏥 I’m currently working-studying at Southern Brittany Hospital Group (GHBS) as cybersecurity engineer</h3>
+<h3 align="left">🏥 I’m currently working-studying as cybersecurity engineer</h3>
 
 <hr>
 
