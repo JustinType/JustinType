@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&hide_border=true" alt="justintype" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&hide_border=true&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&hide_border=true&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&hide_border=true" alt="justintype" />
+</p>
+
 
 <hr>
 
