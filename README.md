@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="left">Other :</h3>
+<h3 align="left">Others :</h3>
 <p align="left">
 </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    
 </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
