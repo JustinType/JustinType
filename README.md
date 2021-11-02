@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&theme=dark&hide_border=true&title_color=0bb066&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&&theme=dark&text_color=ffffff&hide_border=true" alt="justintype" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&theme=dark&text_color=ffffff&hide_border=true" alt="justintype" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintype&theme=dark&hide_border=true&title_color=0bb066" alt="justintype" /></p>
-
 
 <hr>
 
@@ -92,4 +91,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=tokyonight&no-frame=true" alt="justintype" /></a> </p>
+<h3 align="left">Trophies :</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="justintype" /></a> </p>
