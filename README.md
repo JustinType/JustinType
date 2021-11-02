@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=radical" alt="justintype" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=tokyonight&no-frame=true" alt="justintype" /></a> </p>
