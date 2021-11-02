@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hey 👋, I'm JustinType</h1>
+<h1 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JustinType</h1>
 
 <hr>
 
@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&hide_border=true&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&theme=dark&hide_border=true&title_color=0bb066&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&bg_color=2b2a2a&text_color=ffffff&hide_border=true" alt="justintype" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&&theme=dark&text_color=ffffff&hide_border=true" alt="justintype" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintype&theme=dark&hide_border=true&title_color=0bb066" alt="justintype" /></p>
 
 
 <hr>
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -87,3 +89,7 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="40" height="40"/> </a>
 </p>
+
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=radical" alt="justintype" /></a> </p>
