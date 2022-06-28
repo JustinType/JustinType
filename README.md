@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <hr>
 
 <p><img src="https://komarev.com/ghpvc/?username=justintype&label=Profile%20views&color=0bb066&style=flat-square" alt="Views of JustinType profile" height="28"/> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&theme=dark&hide_border=true&title_color=0bb066&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintype&count_private=true&theme=dark&title_color=0bb066&text_color=ffffff&show_icons=true&icon_color=00b3a4&hide=stars" alt="justintype" /> </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&theme=dark&text_color=ffffff&hide_border=true" alt="justintype" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justintype&show_icons=true&locale=en&layout=compact&title_color=0bb066&theme=dark&text_color=ffffff" alt="justintype" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintype&theme=dark&hide_border=true&title_color=0bb066" alt="justintype" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintype&theme=dark&title_color=0bb066" alt="justintype" /></p>
 
 <hr>
 
