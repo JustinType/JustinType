@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="left">Trophies :</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="justintype" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="JustinType's Trophies" /></a> </p>
