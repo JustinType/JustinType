@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 👋 si besoin
 -->
 
-<h1 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm JustinType</h1>
+# 👋 &nbsp;Hi there I'm JustinType
 
-<hr>
 
-<h3 align="left">🎓 French student at ENSIBS (cyberdefense section)</h3>
-<h3 align="left">🏥 I'm currently working-studying as cybersecurity engineer in a hospital</h3>
+### 🎓 &nbsp;French student at ENSIBS (cyberdefense section)</h3>
+### 🏥 &nbsp;I'm currently working-studying as cybersecurity engineer in a hospital</h3>
 
 <hr>
 
@@ -30,9 +29,7 @@ Here are some ideas to get you started:
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justintype&theme=dark&title_color=0bb066" alt="justintype" /></p>
 
-<hr>
-
-<h3 align="left">Programming Languages :</h3>
+## Programming Languages :
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
@@ -46,9 +43,9 @@ Here are some ideas to get you started:
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 </p>
 
-<hr>
 
-<h3 align="left">Frameworks :</h3>
+
+## Frameworks :
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -57,9 +54,9 @@ Here are some ideas to get you started:
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p> 
 
-<hr>	
+	
 
-<h3 align="left">Database :</h3>
+## Database :
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -67,9 +64,9 @@ Here are some ideas to get you started:
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<hr>
 
-<h3 align="left">Design / Game Engines :</h3>
+
+## Design / Game Engines :
 <p align="left">	
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
@@ -77,9 +74,8 @@ Here are some ideas to get you started:
 <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<hr>
 
-<h3 align="left">Others :</h3>
+## Others :
 <p align="left">
 </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>    
 </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -89,7 +85,5 @@ Here are some ideas to get you started:
 <a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="40" height="40"/> </a>
 </p>
 
-<hr>
-
-<h3 align="left">Trophies :</h3>
+## Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="JustinType's Trophies" /></a> </p>
