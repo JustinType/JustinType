@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋 si besoin
-- https://readme-typing-svg.herokuapp.com/demo/ --> aller voir
+- https://readme-typing-svg.herokuapp.com/demo/ => aller voir
 -->
 
 # 👋 &nbsp;Hi there I'm JustinType
