@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - https://readme-typing-svg.herokuapp.com/demo/ => aller voir
 -->
 
-# 👋 &nbsp;Hi there I'm JustinType
+# <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm JustinType
 
 
 ### 🎓 &nbsp;French student at ENSIBS (cyberdefense section)</h3>
