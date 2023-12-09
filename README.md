@@ -86,5 +86,7 @@ Here are some ideas to get you started:
 <a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="40" height="40"/> </a>
 </p>
 
+<!--
 ## Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="JustinType's Trophies" /></a> </p>
+-->
