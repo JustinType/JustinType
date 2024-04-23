@@ -35,31 +35,36 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/Just1Type" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="JustinType's Twitter"/>
  </a>
+ <img src="https://komarev.com/ghpvc/?username=JustinType&color=7602a1&style=for-the-badge&label=Visitors" />
 </p>
 
-<p align="center"><img src="animated1.gif" height="350" width="350"></p>
-<br />
+<p align="center">
+   📚 French student at <strong>ENSIBS</strong><br>
+   🏥 I'm currently working as an <strong>apprentice cybersecurity engineer</strong> in a hospital<br>
+   👨‍💻 I'm passionate about <strong>ethical hacking, astronomy and photography !</strong><br><br>
+</p>
 
+
+<p align="center"><img src="animated1.gif" height="350" width="350"></p>
 
 <!-- TypeIt -->
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=30&duration=4800&pause=1500&color=A429C5&center=true&vCenter=true&random=false&width=1000&lines=French+student+at+ENSIBS+in+cyberdefense+section;I'm+currently+working-studying+as+cybersecurity+engineer+in+a+hospital" alt="Typing SVG" />
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15+Charted&size=35&duration=4000&pause=800&color=A509F7&center=true&vCenter=true&random=false&width=280&height=55&lines=Want+to+know+more+%3F;Read+below+!" alt="Typing SVG" /></p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Skills -->
-<h3 align="left">Pentest</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,windows,azure,wordpress" />
-  </a>
-</p>
-
 <h3 align="left">Programming & Scripting Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,java,js,php,symfony,css,html,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell,go,c,cpp,java,js,php,css,html" /> 
+  </a> 
+</p>
+
+<h3 align="left">Frameworks & Libraries</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,django,express,jquery,nodejs,npm,react,symfony,vue" />
   </a>
 </p>
 
@@ -70,10 +75,24 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<h3 align="left">CI/CD</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,ansible,kubernetes,docker" />
+  </a>
+</p>
+
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,elasticsearch,git,github,gitlab,jenkins,postman,notion,ae,pr,ps,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,elasticsearch,postman,notion,ae,pr,ps,unity,unreal,wordpress" />
+  </a>
+</p>
+
+<h3 align="left">OS</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,arch,ubuntu,debian,redhat,windows" />
   </a>
 </p>
 
@@ -116,13 +135,17 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Footer -->
-<h3 align="left">Want to support me?</h3>
-<a href="https://www.buymeacoffee.com/JustinType" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=justintype&label=Profile%20views&color=7602a1&style=flat-square" alt="Views of JustinType profile" style="height:25px ; width:160px" />
+<h3 align="center">If you like my work and want to support me, you can donate here:</h3>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/JustinType" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 85px !important;width: 300px !important;" ></a><br><br>
+   <img align="center" src="ty.jpg" />
+</p>
 
 
 <!--
+Views :
+<img src="https://komarev.com/ghpvc/?username=justintype&label=Profile%20views&color=7602a1&style=flat-square" alt="Views of JustinType profile" style="height:20px ; width:130px" />
+
 ## Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justintype&theme=onestar&no-frame=true" alt="JustinType's Trophies" /></a> </p>
 -->
