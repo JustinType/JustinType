@@ -37,6 +37,7 @@ Here are some ideas to get you started:
  </a>
 </p>
 
+<a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 <br />
 
 
@@ -108,7 +109,8 @@ Here are some ideas to get you started:
 <!-- Activity -->
 <h3 align="left">GitHub Activity</h3>
 
-![JustinType's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustinType&custom_title=JustinType's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![JustinType's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustinType&custom_title=JustinType's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=DB14FA&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
