@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<p align="center"><img src="animated1.gif" height="350" width="350"></p>
 <br />
 
 
