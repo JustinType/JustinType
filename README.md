@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- My links -->
 <p align="center">
-   <a href="https://valentin-thirion.fr/CV/indexEnglish.html" target="blank">
+   <a href="https://justintype.github.io/" target="blank">
       <img src="https://img.shields.io/badge/Blog-8b1db3?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJfeDMyXyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2ZmZmZmZiI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+ICAuc3Qwe2ZpbGw6I2ZmZmZmZjt9ICA8L3N0eWxlPiA8Zz4gPHBhdGggY2xhc3M9InN0MCIgZD0iTTQyMS4wNzMsMjIxLjcxOWMtMC41NzgsMTEuNzE5LTkuNDY5LDI2LjE4OC0yMy43OTcsNDAuMDk0djE4My4yNWMtMC4wMTYsNC43MTktMS44NzUsOC43MTktNS4wMTYsMTEuODQ0IGMtMy4xNTYsMy4wNjMtNy4yNSw0Ljg3NS0xMi4wNjMsNC45MDZIODEuNTU4Yy00Ljc4MS0wLjAzMS04Ljg5MS0xLjg0NC0xMi4wNDctNC45MDZjLTMuMTQxLTMuMTI1LTQuOTg0LTcuMTI1LTUtMTEuODQ0VjE1Mi4yMTkgYzAuMDE2LTQuNzAzLDEuODU5LTguNzE5LDUtMTEuODQ0YzMuMTU2LTMuMDYzLDcuMjY2LTQuODc1LDEyLjA0Ny00LjkwNmgxNTguNjA5YzEyLjgyOC0xNi44NDQsMjcuNzgxLTM0LjA5NCw0NC43MTktNDkuOTA2IGMwLjA3OC0wLjA5NCwwLjE0MS0wLjE4OCwwLjIxOS0wLjI4MUg4MS41NThjLTE4Ljc1LTAuMDE2LTM1Ljk4NCw3LjUzMS00OC4yNSwxOS41OTRjLTEyLjMyOCwxMi4wNjMtMjAuMDE2LDI4LjkzOC0yMCw0Ny4zNDQgdjI5Mi44NDRjLTAuMDE2LDE4LjQwNiw3LjY3MiwzNS4zMTMsMjAsNDcuMzQ0QzQ1LjU3Myw1MDQuNDY5LDYyLjgwOCw1MTIsODEuNTU4LDUxMmgyOTguNjQxYzE4Ljc4MSwwLDM2LjAxNi03LjUzMSw0OC4yODEtMTkuNTk0IGMxMi4yOTctMTIuMDMxLDIwLTI4LjkzOCwxOS45ODQtNDcuMzQ0VjIwMy40NjljMCwwLTAuMTI1LTAuMTU2LTAuMzI4LTAuMzEzQzQ0MC4zNywyMDkuODEzLDQzMS4zMjMsMjE2LjE1Niw0MjEuMDczLDIyMS43MTl6Ij48L3BhdGg+IDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00OTguMDU4LDBjMCwwLTE1LjY4OCwyMy40MzgtMTE4LjE1Niw1OC4xMDlDMjc1LjQxNyw5My40NjksMjExLjEwNCwyMzcuMzEzLDIxMS4xMDQsMjM3LjMxMyBjLTE1LjQ4NCwyOS40NjktNzYuNjg4LDE1MS45MDYtNzYuNjg4LDE1MS45MDZjLTE2Ljg1OSwzMS42MjUsMTQuMDMxLDUwLjMxMywzMi4xNTYsMTcuNjU2IGMzNC43MzQtNjIuNjg4LDU3LjE1Ni0xMTkuOTY5LDEwOS45NjktMTIxLjU5NGM3Ny4wNDctMi4zNzUsMTI5LjczNC02OS42NTYsMTEzLjE1Ni02Ni41MzFjLTIxLjgxMyw5LjUtNjkuOTA2LDAuNzE5LTQxLjU3OC0zLjY1NiBjNjgtNS40NTMsMTA5LjkwNi01Ni41NjMsOTYuMjUtNjAuMDMxYy0yNC4xMDksOS4yODEtNDYuNTk0LDAuNDY5LTUxLTIuMTg4QzUxMy4zODYsMTM4LjI4MSw0OTguMDU4LDAsNDk4LjA1OCwweiI+PC9wYXRoPiA8L2c+IDwvZz48L3N2Zz4=" alt="JustinType's Blog" />
    </a>
    <a href="https://valentin-thirion.fr/CV/indexEnglish.html" target="blank">
@@ -41,11 +41,10 @@ Here are some ideas to get you started:
 <p align="center">
    📚 French student at <strong>ENSIBS</strong><br>
    🏥 I'm currently working as an <strong>apprentice cybersecurity engineer</strong> in a hospital<br>
-   👨‍💻 I'm passionate about <strong>ethical hacking, astronomy and photography !</strong><br><br>
+   👨‍💻 I'm passionate about <strong>ethical hacking, astronomy and photography !</strong><br>
+   
+<img src="animated1.gif" height="350" width="350">
 </p>
-
-
-<p align="center"><img src="animated1.gif" height="350" width="350"></p>
 
 <!-- TypeIt -->
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15+Charted&size=35&duration=4000&pause=800&color=A509F7&center=true&vCenter=true&random=false&width=280&height=55&lines=Want+to+know+more+%3F;Read+below+!" alt="Typing SVG" /></p>
