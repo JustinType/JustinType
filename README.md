@@ -111,14 +111,14 @@ Here are some ideas to get you started:
 <!-- Stats -->
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinType&theme=radical&border=7F3FBF&background=0D1117" alt="JustinType's GitHub streak"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JustinType&show_icons=true&theme=radical&rank_icon=github&border_color=7F3FBF&bg_color=0D1117" style="width:450px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinType&hide=html,css&theme=radical&layout=compact&border_color=7F3FBF&bg_color=0D1117" style="width:342px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JustinType&show_icons=true&theme=radical&rank_icon=github&border_color=7F3FBF&bg_color=0D1117" style="width:450px" alt="JustinType's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinType&hide=html,css&theme=radical&layout=compact&border_color=7F3FBF&bg_color=0D1117" style="width:342px" alt="JustinType's Most Used Languages" />
 </p>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinType&theme=radical&border_color=7F3FBF&bg_color=0D1117" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinType&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="JustinType's GitHub Details" />
 </p>
 
 <br/>
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 <!-- Activity -->
 <h3 align="left">GitHub Activity</h3>
 
-![JustinType's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustinType&custom_title=JustinType's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=DB14FA&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![JustinType's Graph Activity](https://github-readme-activity-graph.vercel.app/graph?username=JustinType&custom_title=JustinType's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=DB14FA&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <br/>
@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 <h3 align="center">If you like my work and want to support me, you can donate here:</h3>
 <p align="center">
    <a href="https://www.buymeacoffee.com/JustinType" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 85px !important;width: 300px !important;" ></a><br><br>
-   <img align="center" src="ty.jpg" />
+   <img align="center" src="ty.jpg" alt="Thank you"/>
 </p>
 
 
