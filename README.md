@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    📌 French cybersecurity engineer located in <strong>Paris</strong><br>
-   🏢 I'm currently working as <strong>Auditor - Pentester</strong> at Wavestone<br>
+   🏢 I'm currently working as <strong>Auditor - Pentester</strong> at <a href='https://www.wavestone.com/en/' target='_blank' style='color: purple'>Wavestone</a><br>
    👨‍💻 I'm passionate about <strong>ethical hacking, japanese culture and photography !</strong><br>
    
 <img src="animated1.gif" height="350" width="350">
