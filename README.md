@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   📚 French student at <strong>ENSIBS</strong><br>
-   🏥 I'm currently working as an <strong>apprentice cybersecurity engineer</strong> in a hospital<br>
-   👨‍💻 I'm passionate about <strong>ethical hacking, astronomy and photography !</strong><br>
+   📌 French cybersecurity engineer located in <strong>Paris</strong><br>
+   🏢 I'm currently working as <strong>Auditor - Pentester</strong> at Wavestone<br>
+   👨‍💻 I'm passionate about <strong>ethical hacking, japanese culture and photography !</strong><br>
    
 <img src="animated1.gif" height="350" width="350">
 </p>
